@@ -30,7 +30,7 @@ at compile time into a goto.
 
 =head1 USAGE WARNING
 
-<B>WARNING! The author does not endorse using this module for anything real.
+B<WARNING>! The author does not endorse using this module for anything real.
 It was written primarily to demonstrate that such quackery can be achieved.
 Use at your own risk!
 
