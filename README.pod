@@ -8,7 +8,7 @@ Sub::Call::Tail - Tail calls for subroutines and methods
 
 =head1 VERSION
 
-version 0.07
+version 0.08
 
 =head1 SYNOPSIS
 
@@ -51,7 +51,7 @@ Bugs may be submitted through L<the RT bug tracker|https://rt.cpan.org/Public/Di
 
 =head1 CONTRIBUTORS
 
-=for stopwords Karen Etheridge Florian Ragwitz Graham Knop Andrew Main (Zefram)
+=for stopwords Karen Etheridge Graham Knop Florian Ragwitz Andrew Main (Zefram) Ollis
 
 =over 4
 
@@ -61,15 +61,19 @@ Karen Etheridge <ether@cpan.org>
 
 =item *
 
-Florian Ragwitz <rafl@debian.org>
-
-=item *
-
 Graham Knop <haarg@haarg.org>
 
 =item *
 
+Florian Ragwitz <rafl@debian.org>
+
+=item *
+
 Andrew Main (Zefram) <zefram@fysh.org>
+
+=item *
+
+Graham Ollis <plicease@cpan.org>
 
 =item *
 
